@@ -1,0 +1,7 @@
+C:\Users\Булат\Desktop\po_chelovechecki\MazitovBulatTask06\Test\bin\Debug\Test.dll
+C:\Users\Булат\Desktop\po_chelovechecki\MazitovBulatTask06\Test\bin\Debug\Test.pdb
+C:\Users\Булат\Desktop\po_chelovechecki\MazitovBulatTask06\Test\bin\Debug\LiblarySrtykt.dll
+C:\Users\Булат\Desktop\po_chelovechecki\MazitovBulatTask06\Test\bin\Debug\LiblarySrtykt.pdb
+C:\Users\Булат\Desktop\po_chelovechecki\MazitovBulatTask06\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Булат\Desktop\po_chelovechecki\MazitovBulatTask06\Test\obj\Debug\Test.dll
+C:\Users\Булат\Desktop\po_chelovechecki\MazitovBulatTask06\Test\obj\Debug\Test.pdb

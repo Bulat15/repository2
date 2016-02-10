@@ -1,0 +1,9 @@
+C:\Users\Булат\Desktop\po_chelovechecki\Mazitov_Bulat_Task07\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Булат\Desktop\po_chelovechecki\Mazitov_Bulat_Task07\Test\bin\Debug\Test.dll
+C:\Users\Булат\Desktop\po_chelovechecki\Mazitov_Bulat_Task07\Test\bin\Debug\Test.pdb
+C:\Users\Булат\Desktop\po_chelovechecki\Mazitov_Bulat_Task07\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Булат\Desktop\po_chelovechecki\Mazitov_Bulat_Task07\Test\bin\Debug\Task03.dll
+C:\Users\Булат\Desktop\po_chelovechecki\Mazitov_Bulat_Task07\Test\bin\Debug\Task03.pdb
+C:\Users\Булат\Desktop\po_chelovechecki\Mazitov_Bulat_Task07\Test\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Булат\Desktop\po_chelovechecki\Mazitov_Bulat_Task07\Test\obj\Debug\Test.dll
+C:\Users\Булат\Desktop\po_chelovechecki\Mazitov_Bulat_Task07\Test\obj\Debug\Test.pdb

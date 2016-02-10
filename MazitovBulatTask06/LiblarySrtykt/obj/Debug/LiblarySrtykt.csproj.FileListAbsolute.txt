@@ -1,0 +1,5 @@
+C:\Users\Булат\Desktop\po_chelovechecki\MazitovBulatTask06\LiblarySrtykt\bin\Debug\LiblarySrtykt.dll
+C:\Users\Булат\Desktop\po_chelovechecki\MazitovBulatTask06\LiblarySrtykt\bin\Debug\LiblarySrtykt.pdb
+C:\Users\Булат\Desktop\po_chelovechecki\MazitovBulatTask06\LiblarySrtykt\obj\Debug\LiblarySrtykt.csprojResolveAssemblyReference.cache
+C:\Users\Булат\Desktop\po_chelovechecki\MazitovBulatTask06\LiblarySrtykt\obj\Debug\LiblarySrtykt.dll
+C:\Users\Булат\Desktop\po_chelovechecki\MazitovBulatTask06\LiblarySrtykt\obj\Debug\LiblarySrtykt.pdb
