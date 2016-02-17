@@ -3,3 +3,6 @@ C:\Users\Булат\Desktop\po_chelovechecki\Mazitov_Bulat_Task_07\Task02\bin\De
 C:\Users\Булат\Desktop\po_chelovechecki\Mazitov_Bulat_Task_07\Task02\bin\Debug\Task02.pdb
 C:\Users\Булат\Desktop\po_chelovechecki\Mazitov_Bulat_Task_07\Task02\obj\Debug\Task02.exe
 C:\Users\Булат\Desktop\po_chelovechecki\Mazitov_Bulat_Task_07\Task02\obj\Debug\Task02.pdb
+C:\Users\Булат\Desktop\repository2\Task07\Task02\bin\Debug\Task02.exe.config
+C:\Users\Булат\Desktop\repository2\Task07\Task02\obj\Debug\Task02.exe
+C:\Users\Булат\Desktop\repository2\Task07\Task02\obj\Debug\Task02.pdb
