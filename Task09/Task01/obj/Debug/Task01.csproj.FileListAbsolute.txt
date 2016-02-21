@@ -1,0 +1,9 @@
+C:\Users\Булат\Desktop\po_chelovechecki\Mazitov_Bulat_Task09\Task01\bin\Debug\Task01.exe.config
+C:\Users\Булат\Desktop\po_chelovechecki\Mazitov_Bulat_Task09\Task01\bin\Debug\Task01.exe
+C:\Users\Булат\Desktop\po_chelovechecki\Mazitov_Bulat_Task09\Task01\bin\Debug\Task01.pdb
+C:\Users\Булат\Desktop\po_chelovechecki\Mazitov_Bulat_Task09\Task01\obj\Debug\Task01.csprojResolveAssemblyReference.cache
+C:\Users\Булат\Desktop\po_chelovechecki\Mazitov_Bulat_Task09\Task01\obj\Debug\Task01.exe
+C:\Users\Булат\Desktop\po_chelovechecki\Mazitov_Bulat_Task09\Task01\obj\Debug\Task01.pdb
+C:\Users\Булат\Desktop\repository2\Task09\Task01\bin\Debug\Task01.exe.config
+C:\Users\Булат\Desktop\repository2\Task09\Task01\obj\Debug\Task01.exe
+C:\Users\Булат\Desktop\repository2\Task09\Task01\obj\Debug\Task01.pdb
