@@ -1,0 +1,1 @@
+﻿select ContactName,Country from Northwind.Customers where Country in ('usa','Canada')

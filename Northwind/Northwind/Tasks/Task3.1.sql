@@ -1,0 +1,1 @@
+﻿ select distinct OrderID from Northwind.[Order Details] WHERE Quantity BETWEEN 3 AND 10

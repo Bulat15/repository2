@@ -1,0 +1,1 @@
+﻿select  ProductName from  Northwind.Products WHERE ProductName LIKE '%c%ho%c%olade'

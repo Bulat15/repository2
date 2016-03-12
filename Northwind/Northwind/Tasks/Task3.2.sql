@@ -1,0 +1,1 @@
+﻿ select  CustomerID, Country from  Northwind.Customers WHERE Country BETWEEN 'b' AND 'H'
