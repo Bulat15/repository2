@@ -1,0 +1,1 @@
+﻿SELECT SUBSTRING(LastName, 1,1) as 'alphavit' from Northwind.Employees order by 'alphavit' 

@@ -1,0 +1,1 @@
+﻿Select LastName from Northwind.Employees ess where EmployeeID in (select EmployeeID from Northwind.Orders group by EmployeeID having(count(OrderID)>150))

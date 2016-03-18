@@ -216,6 +216,18 @@
     <None Include="Tasks\Task5.2.sql" />
     <None Include="Tasks\Task5.3.sql" />
     <None Include="Tasks\Task6.1.sql" />
+    <None Include="Tasks\Task6.2.sql" />
+    <None Include="Tasks\Task6.3.sql" />
+    <None Include="Tasks\Task6.4.sql" />
+    <None Include="Tasks\Task6.5.sql" />
+    <None Include="Tasks\Task2.3.sql" />
+    <None Include="Tasks\Task6.6.sql" />
+    <None Include="Tasks\Task7.1.sql" />
+    <None Include="Tasks\Task8.1.sql" />
+    <None Include="Tasks\Task9.1.sql" />
+    <None Include="Tasks\Task10.1.sql" />
+    <None Include="Tasks\Task11.1.sql" />
+    <None Include="Tasks\Task12.1.sql" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="Permissions.sql" />

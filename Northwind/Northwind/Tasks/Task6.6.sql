@@ -1,0 +1,1 @@
+﻿select LastName as 'User Name' ,ReportsTo as 'Boss' from Northwind.Employees 
