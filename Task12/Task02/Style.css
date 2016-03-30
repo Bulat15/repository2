@@ -1,0 +1,32 @@
+#one{
+	background:#09C;
+	color: white;
+	width:400px;
+}
+#reg
+{
+	margin: 0px 0px 0px 20px;
+}
+#e-mail
+{
+	width: 350px;
+	margin: 0px 0px -10px 20px;
+}
+#label
+{
+	margin: 0px 0px 0px 20px;
+}
+#p1
+{
+	margin: 20px 0px -15px 20px;
+}
+#p2
+{
+	margin:0px 0px -15px 200px;
+	
+}
+#button
+{
+	margin: 20px 0px 20px 20px;
+	background:#DEB887;
+}

@@ -1,0 +1,16 @@
+﻿.layout 
+{
+    width: 100%; 
+
+}
+.td
+{
+	height:150px;
+	width:75px;
+}
+.layout TD 
+{
+    vertical-align: top; 
+    padding: 5px; 
+	border: 1px solid black;
+}
